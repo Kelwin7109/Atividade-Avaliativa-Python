@@ -1,0 +1,48 @@
+{
+    "produtos": {
+        "001": {
+            "codigo": "001",
+            "nome": "alcoon isopropilico",
+            "categoria": "limpeza",
+            "preco": 18.0,
+            "quantidade": 5
+        },
+        "002": {
+            "codigo": "002",
+            "nome": "pasta termica",
+            "categoria": "tim",
+            "preco": 50.0,
+            "quantidade": 6
+        },
+        "003": {
+            "codigo": "003",
+            "nome": "conector RJ45",
+            "categoria": "rede",
+            "preco": 12.0,
+            "quantidade": 20
+        },
+        "004": {
+            "codigo": "004",
+            "nome": "teclado",
+            "categoria": "periferico",
+            "preco": 34.0,
+            "quantidade": 26
+        }
+    },
+    "movimentacoes": [
+        {
+            "tipo": "saida",
+            "codigo": "002",
+            "nome": "pasta termica",
+            "quantidade": 6,
+            "data_hora": "23/10/2026 16:10:52"
+        },
+        {
+            "tipo": "saida",
+            "codigo": "002",
+            "nome": "pasta termica",
+            "quantidade": 53,
+            "data_hora": "23/10/2026 16:11:42"
+        }
+    ]
+}
